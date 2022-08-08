@@ -1,0 +1,12 @@
+C:\Users\LewisLiu\source\repos\NetClient\obj\Debug\netcoreapp3.1\NetClient.AssemblyInfoInputs.cache
+C:\Users\LewisLiu\source\repos\NetClient\obj\Debug\netcoreapp3.1\NetClient.AssemblyInfo.cs
+C:\Users\LewisLiu\source\repos\NetClient\obj\Debug\netcoreapp3.1\NetClient.csproj.CoreCompileInputs.cache
+C:\Users\LewisLiu\source\repos\NetClient\bin\Debug\netcoreapp3.1\NetClient.exe
+C:\Users\LewisLiu\source\repos\NetClient\bin\Debug\netcoreapp3.1\NetClient.deps.json
+C:\Users\LewisLiu\source\repos\NetClient\bin\Debug\netcoreapp3.1\NetClient.runtimeconfig.json
+C:\Users\LewisLiu\source\repos\NetClient\bin\Debug\netcoreapp3.1\NetClient.runtimeconfig.dev.json
+C:\Users\LewisLiu\source\repos\NetClient\bin\Debug\netcoreapp3.1\NetClient.dll
+C:\Users\LewisLiu\source\repos\NetClient\bin\Debug\netcoreapp3.1\NetClient.pdb
+C:\Users\LewisLiu\source\repos\NetClient\obj\Debug\netcoreapp3.1\NetClient.dll
+C:\Users\LewisLiu\source\repos\NetClient\obj\Debug\netcoreapp3.1\NetClient.pdb
+C:\Users\LewisLiu\source\repos\NetClient\obj\Debug\netcoreapp3.1\NetClient.genruntimeconfig.cache

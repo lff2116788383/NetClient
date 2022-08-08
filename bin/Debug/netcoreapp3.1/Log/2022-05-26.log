@@ -1,0 +1,5 @@
+[DEBUG][2022-05-26 16:50:53.6671688][NetClient\Program.cs,line:31][Client Start]
+[DEBUG][2022-05-26 16:50:53.6686579][NetClient\Program.cs,line:33][Debug Test]
+[INFO][2022-05-26 16:50:53.6801472][NetClient\Program.cs,line:34][InfoTest]
+[WARNING][2022-05-26 16:50:53.6960477][NetClient\Program.cs,line:35][Warning Test]
+[ERROR][2022-05-26 16:50:53.7001926][NetClient\Program.cs,line:36][Error Test]
